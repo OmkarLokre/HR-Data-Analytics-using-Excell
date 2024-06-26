@@ -43,3 +43,17 @@ Ensured that the dashboards were interactive and user-friendly.
 **Conclusion**
 This project provides the HR department with a comprehensive set of tools to monitor and analyze key employee metrics. The dashboards created in Excel, Power BI, and Tableau offer valuable insights that can help in workforce planning, identifying attrition patterns, and implementing targeted retention strategies.
 
+
+DashBoards
+
+![Dashboard](https://github.com/OmkarLokre/HR-Data-Analytics-using-Excell-PowerBi_and_Tableau/assets/139554122/b96d8d55-b768-4d79-a76c-b9f434fadfc0)
+
+
+
+![Screenshot 2024-06-23 074333](https://github.com/OmkarLokre/HR-Data-Analytics-using-Excell-PowerBi_and_Tableau/assets/139554122/7f4c5bf8-23d8-411e-a1bb-666a3e3c3cbd)
+
+
+
+![Screenshot 2024-06-26 164515](https://github.com/OmkarLokre/HR-Data-Analytics-using-Excell-PowerBi_and_Tableau/assets/139554122/0cace067-6908-45ea-b8fe-578b7adc0f7a)
+
+
