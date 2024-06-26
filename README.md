@@ -1,5 +1,4 @@
-**HR Analytics Dashboard: Visualizing Employee Metrics and Attrition
-**
+**HR Analytics Dashboard: Visualizing Employee Metrics and Attrition**
 
 **Overview**
 This project aims to address the critical need for Key Performance Indicators (KPIs) in the HR department by designing and implementing a set of visual dashboards to monitor and analyze employee data. The project focuses on providing clear insights into various HR metrics, including employee count, attrition count, attrition rate, active employees, and average age. Additionally, it offers detailed visualizations on attrition patterns based on gender, department, age groups, job satisfaction ratings, and education fields.
